@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on "To Be A Star"
 - 📫 How to reach me [Light0913@163.com][Light_LE@qq.com]
 
-#Chinese(zh_cn)
+# Chinese(简体中文[zh_cn])
 
-#English(en_us)
+# English(Englsh[en_us])
 
 <!---
 Light0913/Light0913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
