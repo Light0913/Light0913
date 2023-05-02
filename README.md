@@ -1,4 +1,4 @@
-# Attention [^1]
+# Attention 注意[^1]
 
 [^1]:Why do I say this? Because it would be strange to have a translator关于我为什么要这么说，因为开了翻译后会很奇怪
 
@@ -6,15 +6,15 @@
 
 **我准备了多种语言的版本，如果你的浏览器有自动翻译工具，请关掉它**
 
-# Main Introduction
+# Main Introduction 主要介绍
 
-- 👋 Hi, I’m @Light0913
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on "To be a star"
-- 📫 How to reach me [Light0913@163.com][Light_LE@qq.com]
+- 👋 Hi, I’m @Light0913 你好，我叫Light0913
+- 👀 I’m interested in Minecraft 我对《我的世界》感兴趣
+- 🌱 I’m currently learning Coding 我
+- 💞️ I’m looking to collaborate on "Becoming the brightest star in the night sky" 我希望能“成为夜空中最亮的星”
+- 📫 How to reach me [Light0913@163.com][Light_LE@qq.com] 联系方式：[Light0913@163.com][Light_LE@qq.com]
 
-# Detailed introduction
+# Detailed introduction 详细介绍
 
 **Now choose your language**
 
