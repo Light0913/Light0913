@@ -3,7 +3,7 @@
 **I have prepared versions in multiple languages. If your browser has an automatic translation tool, please turn it off**
 
 **我准备了多种语言的版本，如果你的浏览器有自动翻译工具，请关掉它**
-<!-- we -->
+
 - 👋 Hi, I’m @Light0913
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Coding
