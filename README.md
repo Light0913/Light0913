@@ -1,6 +1,6 @@
 # Attention [^1]
 
-[^1]:Why do I say this? It would be strange to have a translator关于我为什么要这么说，因为开了翻译后会很奇怪
+[^1]:Why do I say this? Because it would be strange to have a translator关于我为什么要这么说，因为开了翻译后会很奇怪
 
 **I have prepared versions in multiple languages. If your browser has an automatic translation tool, please turn it off**
 
