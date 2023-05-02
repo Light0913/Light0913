@@ -4,7 +4,7 @@
 
 **I have prepared versions in multiple languages. If your browser has an automatic translation tool, please turn it off**
 
-**【我准备了多种语言的版本，如果你的浏览器有自动翻译工具，请关掉它】**
+【**我准备了多种语言的版本，如果你的浏览器有自动翻译工具，请关掉它**】
 
 # Main Introduction 主要介绍
 
@@ -18,7 +18,7 @@
 
 **Now choose your language**
 
-**现在，选择你的语言**
+【**现在，选择你的语言**】
 
 # 简体中文 [zh_cn]
 
