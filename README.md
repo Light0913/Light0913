@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Light0913
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on "To Be A Star"
 - 📫 How to reach me [Light0913@163.com][Light_LE@qq.com]
 
 <!---
