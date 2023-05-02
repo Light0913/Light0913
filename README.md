@@ -1,10 +1,10 @@
 # Attention 注意[^1]
 
-[^1]:Why do I say this? Because it would be strange to have a translator关于我为什么要这么说，因为开了翻译后会很奇怪
+[^1]:Why do I say this? Because it would be strange to have a translator【关于我为什么要这么说，因为开了翻译后会很奇怪】
 
 **I have prepared versions in multiple languages. If your browser has an automatic translation tool, please turn it off**
 
-**我准备了多种语言的版本，如果你的浏览器有自动翻译工具，请关掉它**
+**【我准备了多种语言的版本，如果你的浏览器有自动翻译工具，请关掉它】**
 
 # Main Introduction 主要介绍
 
