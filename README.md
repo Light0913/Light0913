@@ -11,7 +11,10 @@
 ## 我的热爱
 
 - Minecraft
-  六岁入坑
+  
+  六岁入坑，属于我的世界正版老玩家
+  
+  我的微软Microsoft正版账号用户名：Light_LE
 
 # English [en_us]
 
