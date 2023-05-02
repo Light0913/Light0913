@@ -1,7 +1,13 @@
+# Attention
+
+**I have prepared versions in multiple languages. If your browser has an automatic translation tool, please turn it off**
+
+**我准备了多种语言的版本，如果你的浏览器有自动翻译工具，请关掉它**
+
 - 👋 Hi, I’m @Light0913
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on "To Be A Star"
+- 💞️ I’m looking to collaborate on "To be a star"
 - 📫 How to reach me [Light0913@163.com][Light_LE@qq.com]
 
 **Now choose your language现在，选择你的语言**
