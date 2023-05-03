@@ -38,6 +38,8 @@
 
 ### Minecraft
 
+  ![Minecraft.jpg](images/Minecraft.jpg)
+  
   Entering the pit at the age of six, my world's authentic veteran player
 
   My Microsoft legitimate account username is Light_ LE
