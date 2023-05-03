@@ -24,7 +24,9 @@
 
 ## 我的热爱
 
-- Minecraft
+### Minecraft
+  
+  ![Minecraft.jpg](images/Minecraft.jpg)
   
   六岁入坑，属于我的世界正版老玩家
   
@@ -34,7 +36,7 @@
 
 ## My Love
 
-- Minecraft
+### Minecraft
 
   Entering the pit at the age of six, my world's authentic veteran player
 
