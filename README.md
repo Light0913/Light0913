@@ -6,7 +6,7 @@
 
 【**我准备了多种语言的版本，如果你的浏览器有自动翻译工具，请关掉它**】
 
-# Main Introduction 主要介绍
+# Main Introduction 【主要介绍】
 
 - 👋 Hi, I’m @Light0913 【**你好，我叫Light0913**】
 - 👀 I’m interested in Minecraft 【**我对《我的世界》感兴趣**】
@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on "Becoming the brightest star in the night sky" 【**我希望能“成为夜空中最亮的星”**】
 - 📫 How to reach me [Light0913@163.com][Light_LE@qq.com] 【**联系方式：[Light0913@163.com][Light_LE@qq.com]**】
 
-# Detailed introduction 详细介绍
+# Detailed introduction 【详细介绍】
 
 **Now choose your language**
 
