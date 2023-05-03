@@ -32,8 +32,6 @@
 
 # English [en_us]
 
-<!-- This content will not appear in the rendered Markdown -->
-
 ## My Love
 
 - Minecraft
