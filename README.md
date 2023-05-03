@@ -1,4 +1,4 @@
-# Attention 注意[^1]
+# Attention 【注意】[^1]
 
 [^1]:Why do I say this? Because it would be strange to have a translator【关于我为什么要这么说，因为开了翻译后会很奇怪】
 
