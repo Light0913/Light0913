@@ -1,3 +1,5 @@
+[zh_cn][[en_us]](https://github.com/Light0913/Light0913/edit/main/README.md)
+
 # 主要介绍
 
 - 👋 你好，我叫Light0913
