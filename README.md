@@ -1,4 +1,4 @@
-[[zh_cn]](https://github.com/Light0913/Light0913/blob/main/README_zh_cn.md)
+[[zh_cn]](https://github.com/Light0913/Light0913/blob/main/README_zh_cn.md)[en_us]
 
 # Main Introduction
 
