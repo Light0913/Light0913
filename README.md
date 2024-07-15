@@ -13,7 +13,7 @@
 
 ### Minecraft
 
-  ![Minecraft.jpg](images/Minecraft.jpg)
+  ![Minecraft.jpg](https://www.minecraft.net/content/dam/games/minecraft/key-art/PC_Bundle_BaseGame_Desktop.jpg?imwidth=2401)
   
   Entering the pit at the age of six, my world's authentic veteran player
 
