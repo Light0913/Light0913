@@ -14,7 +14,7 @@
 
 ### Minecraft
   
-  ![Minecraft.jpg](images/Minecraft.jpg)
+  ![Minecraft.jpg](https://www.minecraft.net/content/dam/games/minecraft/key-art/PC_Bundle_BaseGame_Desktop.jpg?imwidth=2401)
   
   六岁入坑，属于我的世界正版老玩家
   
