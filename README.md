@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://a1.boltp.com/2026/02/10/698b48524c844.png" alt="NOIP"/>
+  <img src="https://github.com/Light0913/Light0913/blob/main/NOIP%E8%92%9F%E8%92%BB%E7%8E%B0%E7%8A%B6.png" alt="NOIP"/>
 </p>
 
 $$
